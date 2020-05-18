@@ -1,0 +1,8 @@
+Marginal Log Likelihood
+RBF			0.94785737
+Matern (0.5)		0.99038773
+Matern (1.5)		0.96494627
+Matern (2.5)		0.95786011
+Linear			1.22133493
+Periodic			0.95173829
+Polynomial (quadratic)	1.19192600
