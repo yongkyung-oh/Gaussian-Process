@@ -1,2 +1,2 @@
 # Gaussian-Process
-https://yongkyung-oh.github.io/Gaussian-Process/Contents.pdf
+Slide: https://yongkyung-oh.github.io/Gaussian-Process/Contents.pdf
